@@ -18,6 +18,6 @@ print("Current Time: ", current_time)
 # git commit -m "Your Message"
 # git push
 # --------------------------------------------------------------------------------
-quote = "Live, Laugh, Love!"
+quote = "Live, Laugh, Love !!"
 print(quote)
 # --------------------------------------------------------------------------------
